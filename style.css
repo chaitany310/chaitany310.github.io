@@ -166,7 +166,7 @@
   display: inline-block;
  }
  .services-list div a:hover{
-  color: #080808;
+  color: #fff;
   transform: translateY(-5px);
  }
  .services-list div:hover{
